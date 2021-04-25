@@ -8,7 +8,7 @@ This project was prepared as part of a recruitment task for an internship at [Al
 
 The created web application displays a list of repositories of any GitHub user. It consists of two main components:
 
-- A form that allows you to enter your GitHub username
+- A form that allows you to enter GitHub username
 - List of repositories of the searched user sorted by popularity (number of stars ⭐).
 
 The application additionally supports changing its theme to dark and was made in accordance with the _mobile-first_ principle. The application also displays the appropriate GitHub language color for a given repository.
