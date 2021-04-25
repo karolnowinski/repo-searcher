@@ -43,7 +43,7 @@ For unauthenticated requests, the rate limit allows for up to 60 requests per ho
 
 In the case of application development, one of the authentication methods proposed by GitHub should be used [[2]](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#authentication).
 
-GitHub colors corresponding to the programming languages come from the project: [github.com/ozh/github-colors](https://github.com/ozh/github-color).
+GitHub colors corresponding to the programming languages come from the project: [github.com/ozh/github-colors](https://github.com/ozh/github-colors).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so basically application setup and usage should be performed according to the Create React App instructions.
 
