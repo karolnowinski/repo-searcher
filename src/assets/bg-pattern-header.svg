@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="main-layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="578 62.5 1440 160" style="enable-background:new 578 62.5 1440 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{opacity:8.000000e-002;clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="578" y="62.5" width="1440" height="160"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="912.65" y1="-272.19" x2="1712.65" y2="527.81">
+		<stop  offset="0" style="stop-color:#3A4BC1"/>
+		<stop  offset="0.4949" style="stop-color:#285FD1"/>
+		<stop  offset="1" style="stop-color:#1573E1"/>
+	</linearGradient>
+	<path class="st0" d="M2018,62.5H578v60c0,55.2,44.8,100,100,100h1340V62.5z"/>
+	<circle class="st1" cx="2038" cy="362.5" r="372"/>
+	<circle class="st1" cx="908" cy="-229.5" r="372"/>
+</g>
+</svg>
