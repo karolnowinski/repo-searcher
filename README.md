@@ -15,7 +15,7 @@ The application additionally supports changing its theme to dark and was made in
 
 In the application, you can choose the sort direction of received repositories list by the number of stars in ascending or descending order.
 
-The app is responsive, - it is prepared to be displayed according to the size of the user's screen.
+The app is responsive - it is prepared to be displayed according to the size of the user's screen.
 
 # Screenshots
 
