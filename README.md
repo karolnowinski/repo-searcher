@@ -27,7 +27,7 @@ The app is responsive - it is prepared to be displayed according to the size of 
 ## Desktop:
 
 <br />
-<img src="./docs/images/desktop.gif" alt="Desktop" width="1000"/>
+<img src="./docs/images/desktop.gif" alt="Desktop" style="width: 100%;"/>
 
 # Tech Stack
 
